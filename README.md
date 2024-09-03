@@ -1,6 +1,5 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=WELCOME&fontSize=50&animation=fadeIn&fontAlignY=34">
-- 👋 Hi, I’m jeffrey
-<br>
+-  👋 Hi, I’m jeffrey
 - 👀 I’m interested in `Web Front-end Development`
 <br>
 - 📫 How to reach me jeffondev@gmail.com
