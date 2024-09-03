@@ -25,6 +25,7 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+<br>
 <a href="https://opgc.me/#/users/jeffondev" target="_blank"><img src="https://prd-opgc-api.opgc.me/githubs/users/jeffondev/tag/?theme=basic" /></a>
 <!--
 **jeffondev/jeffondev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
