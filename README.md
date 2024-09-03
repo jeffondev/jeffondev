@@ -1,10 +1,9 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=WELCOME&fontSize=50&animation=fadeIn&fontAlignY=34">
+<a href="https://opgc.me/#/users/jeffondev" target="_blank"><img src="https://prd-opgc-api.opgc.me/githubs/users/jeffondev/tag/?theme=basic" /></a>
 <!--
 **jeffondev/jeffondev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
-<a href="https://opgc.me/#/users/jeffondev" target="_blank"><img src="https://prd-opgc-api.opgc.me/githubs/users/jeffondev/tag/?theme=basic" /></a>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
